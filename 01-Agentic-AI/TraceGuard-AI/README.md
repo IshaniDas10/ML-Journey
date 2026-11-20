@@ -18,6 +18,14 @@ suspicious activity, and generate security reports.
 - GitHub version control
 - Deployment after Version 1 is complete
 
-## Current Status
+### Step 2 — Local Development Setup
 
-Project initialization.
+- Cloned the ML-Journey repository from GitHub.
+- Opened the repository locally in VS Code.
+- Navigated to the TraceGuard-AI project directory.
+- Verified Python installation and version.
+
+### Objective
+
+Prepare an isolated Python environment for
+project dependencies and development.
