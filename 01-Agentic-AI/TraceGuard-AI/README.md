@@ -29,3 +29,14 @@ suspicious activity, and generate security reports.
 
 Prepare an isolated Python environment for
 project dependencies and development.
+
+### Python Virtual Environment Setup
+
+- Selected Python 3.11.9 for compatibility.
+- Created an isolated virtual environment using venv.
+- Activated the project environment.
+
+**Why use a virtual environment?**
+
+It isolates project dependencies and prevents
+package conflicts with other Python projects.
